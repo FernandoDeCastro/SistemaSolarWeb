@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+#hSistemaSolar{
+    text-align: center;
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#nSistemaSolar{
+    background-color: gray;
+    font-size: larger;
+}
+
+#menu li{
+    display: inline;
+    padding: 10px;
+}
